@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "IntJoukkoSovellus",
+                "projectName": "IntJoukkoSovellus",
+                "workingDirectory": "c:\\Users\\Pyry\\Ohtu\\ohtu-tehtavat\\viikko5\\IntJoukkoSovellus",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "IntJoukkoSovellus",
+                "projectName": "IntJoukkoSovellus",
+                "workingDirectory": "c:\\Users\\Pyry\\Ohtu\\ohtu-tehtavat\\viikko5\\IntJoukkoSovellus",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
