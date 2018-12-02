@@ -193,7 +193,7 @@ public class IntJoukko {
         return erotus;
     }
 
-
+    
     
         
 }

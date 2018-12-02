@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Tennis",
+                "projectName": "Tennis",
+                "workingDirectory": "c:\\Users\\Pyry\\Ohtu\\ohtu-tehtavat\\viikko5\\Tennis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Tennis",
+                "projectName": "Tennis",
+                "workingDirectory": "c:\\Users\\Pyry\\Ohtu\\ohtu-tehtavat\\viikko5\\Tennis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
